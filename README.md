@@ -1,6 +1,4 @@
 ## 🚀 About Me
-
-## 🚀 About Me
 - 🎓 Final-year Computer Engineering student at Uni-CV
 - 💻 Focused on Full Stack Development | Mobile Apps
 - 🌱 Currently learning Docker and React Native
