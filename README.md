@@ -1,7 +1,7 @@
 ## 🚀 About Me
-- 🎓 Final-year Computer Engineering student at Uni-CV
-- 💻 Focused on Full Stack Development | Mobile Apps
-- 🌱 Currently learning Docker and React Native
+I´m in my final-year Computer Engineering student at Uni-CV turning ideas into code one project at a time, aspiring
+full stack development.
+Currently learning Docker, PostGree and React Native.
 
 ## 🛠️ Tech Stack
 
