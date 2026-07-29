@@ -1,11 +1,12 @@
 ## 🚀 About Me
-I´m in my final-year Computer Engineering student at Uni-CV turning ideas into code one project at a time, aspiring
+I´m in my final-year Computer Engineering student at Uni-CV (Universidade de Cabo Verde )turning ideas into code one project at a time, aspiring
 full stack development.
 Currently learning Docker, PostGree and React Native.
 
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
