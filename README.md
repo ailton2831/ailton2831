@@ -1,7 +1,7 @@
 ## 🚀 About Me
 I´m in my final-year Computer Engineering student at Uni-CV (Universidade de Cabo Verde )turning ideas into code one project at a time, aspiring
 full stack development.
-Currently learning Docker, PostGree and React Native.
+Currently learning Docker & React Native
 
 ## 🛠️ Tech Stack
 
