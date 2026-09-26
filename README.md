@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I´m in my final-year Computer Engineering student at Uni-CV (Universidade de Cabo Verde )turning ideas into code one project at a time, aspiring
+Computer Engineering student at Uni-CV (Universidade de Cabo Verde) turning ideas into code one project at a time, aspiring
 full stack development.
 
 ## 💻 Tech Stack
