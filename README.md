@@ -2,7 +2,7 @@
 I´m in my final-year Computer Engineering student at Uni-CV (Universidade de Cabo Verde )turning ideas into code one project at a time, aspiring
 full stack development.
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
